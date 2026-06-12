@@ -44,41 +44,13 @@ Research on autonomous software engineering agents, including:
 - environment interaction
 - benchmark evaluation
 
-### LLM Tool Use
-Experiments on:
-- XML / JSON action formatting
-- structured outputs
-- function calling
-- execution planning
-
-### Dataset & Evaluation
-Building:
-- SWE-bench style datasets
-- agent execution traces
-- automatic evaluation pipelines
-- training data generation systems
 
 Publications
 ======
 See the [Publications](/publications/) page for a full list of papers and preprints.
 
-Teaching & Talks
-======
-- Talks on LLM agents and software engineering automation
-- Tutorials on autonomous coding systems
-- Research discussions on agent evaluation
 
-Blog
-======
-I occasionally write about:
-- LLM systems
-- coding agents
-- reinforcement learning
-- research engineering
-- infrastructure for AI agents
 
 Contact
 ======
-- Email: your_email@example.com
-- GitHub: https://github.com/yourname
-- Google Scholar: https://scholar.google.com/
+- Email: waveyang00@gmail.com
