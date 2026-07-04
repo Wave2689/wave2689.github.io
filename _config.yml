@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Botao Yang"
   pronouns         : # example: "she/her"
-  bio              : "Master's student at SJTU Biomedical Engineering. Research interests: MLLM, Computer Vision, Medical Imaging."
-  location         : "Shanghai, China"
+  bio              : "PhD student at PolyU. Research interests: Code Agent, MLLM."
+  location         : "Hong Kong, China"
   employer         : ""
   uri              : # URL
   email            : "waveyang00@gmail.com" 

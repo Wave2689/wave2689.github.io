@@ -11,33 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2022–2026
-  * Advisor: Prof. Shengxian Tu (Changjiang Scholar, Fellow of ACC, Fellow of ESC)
-  * Major Courses: Computer Vision in Biomedical Engineering, Advanced Biomedical Image Processing, Data Mining
-* B.Eng. in Biomedical Engineering, University of Electronic Science and Technology of China, 2018–2022
-  * Ranked 2/62 (top 5%)
-  * National Endeavor Scholarship, Grateful Scientist Scholarship, Technology Competition Award (3 times)
-  * Outstanding Graduate of UESTC
+* Ph.D., The Hong Kong Polytechnic University (PolyU), 2026 – present
+* M.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2022 – 2026
+* B.Eng. in Biomedical Engineering, UESTC, 2018 – 2022 (Ranked 2/62, top 5%)
 
 Research Interests
 ======
+* Code Agent
 * Multimodal Large Language Models (MLLM)
-* Computer Vision
-* Medical Imaging
 
 Internship Experience
 ======
 * SenseTime Technology — Foundation Model (InternVL) Team
-  * Worked on large vision-language models and multimodal understanding
-
-Skills
-======
-* Deep Learning & Computer Vision
-  * PyTorch, MLLM, Vision Transformers, Medical Image Analysis
-* Programming
-  * Python, C++
-* Tools
-  * Git, Linux, CUDA
 
 Publications
 ======
@@ -47,7 +32,5 @@ Publications
 
 Honors & Awards
 ======
-* National Endeavor Scholarship (UESTC)
-* Grateful Scientist Scholarship (UESTC)
-* Technology Competition Award × 3 (UESTC)
+* National Endeavor Scholarship
 * Outstanding Graduate of UESTC (2022)
