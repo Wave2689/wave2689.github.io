@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Botao Yang"
 title_separator          : "-"
 name                     : &name "Botao Yang"
-description              : &description "Research on AI agents, SWE-bench evaluation, LLM verification, diffusion models, and scalable systems."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD candidate in Biomedical Engineering at SJTU. Research interests: MLLM, Computer Vision, Medical Imaging."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wave2689.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,10 +24,10 @@ repository               : "wave2689/wave2689.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Botao"
-  pronouns         : # example: "she/her"  
-  bio              : "Research Engineer focused on AI agents, SWE-bench evaluation, LLM verification, and scalable ML systems."
-  location         : "Shenzhen"
+  name             : "Botao Yang"
+  pronouns         : # example: "she/her"
+  bio              : "Master's student at SJTU Biomedical Engineering. Research interests: MLLM, Computer Vision, Medical Imaging."
+  location         : "Shanghai, China"
   employer         : ""
   uri              : # URL
   email            : "waveyang00@gmail.com" 

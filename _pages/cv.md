@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2022–2026
+  * Advisor: Prof. Shengxian Tu (Changjiang Scholar, Fellow of ACC, Fellow of ESC)
+  * Major Courses: Computer Vision in Biomedical Engineering, Advanced Biomedical Image Processing, Data Mining
+* B.Eng. in Biomedical Engineering, University of Electronic Science and Technology of China, 2018–2022
+  * Ranked 2/62 (top 5%)
+  * National Endeavor Scholarship, Grateful Scientist Scholarship, Technology Competition Award (3 times)
+  * Outstanding Graduate of UESTC
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Multimodal Large Language Models (MLLM)
+* Computer Vision
+* Medical Imaging
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Internship Experience
+======
+* SenseTime Technology — Foundation Model (InternVL) Team
+  * Worked on large vision-language models and multimodal understanding
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning & Computer Vision
+  * PyTorch, MLLM, Vision Transformers, Medical Image Analysis
+* Programming
+  * Python, C++
+* Tools
+  * Git, Linux, CUDA
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* National Endeavor Scholarship (UESTC)
+* Grateful Scientist Scholarship (UESTC)
+* Technology Competition Award × 3 (UESTC)
+* Outstanding Graduate of UESTC (2022)
